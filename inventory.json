@@ -1,7 +1,7 @@
 {
   "dealership": "Straightline Honda",
-  "generated_at": "2026-10-26T08:46:43",
-  "vehicle_count": 47,
+  "generated_at": "2026-10-26T09:53:37",
+  "vehicle_count": 44,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -313,17 +313,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Honda Civic Hatchback",
-      "vin": "SHHFK7H99HU309364",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/adaa799b2624.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Civic Hatchback",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Nissan Rogue",
       "vin": "5N1AT2MV6KC825700",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/6fd3c3515fec.html",
@@ -332,28 +321,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 18495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota RAV4",
-      "vin": "2T3B1RFV4MC255217",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/d325aeca2aed.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda HR-V",
-      "vin": "3CZRU6H91NM102133",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/51f4c8342dbe.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
