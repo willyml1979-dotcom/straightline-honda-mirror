@@ -1,6 +1,6 @@
 {
   "dealership": "Straightline Honda",
-  "generated_at": "2026-10-26T01:26:58",
+  "generated_at": "2026-10-26T08:46:43",
   "vehicle_count": 47,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/979b0b4ee084.html",
       "condition": "new",
       "price": 36820.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda2026 CR-V SPORT",
+      "vin": "2HKRS4H59TH109637",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/47d92fc1d494.html",
+      "condition": "new",
+      "price": 48165.0,
       "price_currency": "CAD"
     },
     {
@@ -47,10 +55,18 @@
     },
     {
       "name": "Honda2026 CR-V SPORT",
+      "vin": "2HKRS4H54TH111926",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/9594f9001a54.html",
+      "condition": "new",
+      "price": 48165.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda2026 CR-V SPORT",
       "vin": "2HKRS4H58TH114599",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/d39cbf6ad0ff.html",
       "condition": "new",
-      "price": 48165.0,
+      "price": 0.0,
       "price_currency": "CAD"
     },
     {
@@ -158,14 +174,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Honda2026 Civic Hybrid SPORT TOURING",
-      "vin": "2HGFE4F80TH017866",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/f6e9585baaeb.html",
-      "condition": "new",
-      "price": 42220.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Honda2026 CR-V SPORT",
       "vin": "2HKRS4H55TH119386",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/39623461aa9e.html",
@@ -179,14 +187,6 @@
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/650f8850f592.html",
       "condition": "new",
       "price": 36820.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Honda2026 CR-V SPORT",
-      "vin": "2HKRS4H59TH120072",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/068f5cef6fb2.html",
-      "condition": "new",
-      "price": 48165.0,
       "price_currency": "CAD"
     },
     {
