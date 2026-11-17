@@ -1,7 +1,7 @@
 {
   "dealership": "Straightline Honda",
-  "generated_at": "2026-11-17T10:40:09",
-  "vehicle_count": 43,
+  "generated_at": "2026-11-17T12:53:12",
+  "vehicle_count": 48,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -294,14 +294,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Chevrolet Colorado",
-      "vin": "1GCGTDE38G1306237",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/9d6543615ba5.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Colorado",
+      "name": "2018 Honda CR-V",
+      "vin": "2HKRW2H22JH115503",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/5a79d2d44f05.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 27995.0,
+      "price": 18995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Volkswagen TIGUAN",
+      "vin": "3VV2B7AX7JM076127",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/4c2144bc8a59.html",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "TIGUAN",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Honda Civic Sedan",
+      "vin": "2HGFC2F52KH001036",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/5b49f0e68e50.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Civic Sedan",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Jeep Wrangler Unlimited",
+      "vin": "1C4HJXEN3KW607216",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/f13097307268.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -312,29 +345,29 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 18495.0,
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Subaru WRX",
-      "vin": "JF1VBAL60N9006461",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/455fffa496a4.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "WRX",
+      "name": "2021 Ford Bronco Sport",
+      "vin": "3FMCR9B63MRB40134",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/d5d080bfca6d.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Bronco Sport",
       "condition": "used",
-      "price": 33995.0,
+      "price": 23495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Atlas",
-      "vin": "1V2BR2CA1NC561021",
-      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/95f977cc507e.html",
+      "name": "2022 Honda CIVIC SEDAN",
+      "vin": "2HGFE2F34NH116170",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/dc8cc92c6280.html",
       "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas",
+      "make": "Honda",
+      "model": "CIVIC SEDAN",
       "condition": "used",
-      "price": 37995.0,
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -349,6 +382,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Honda Civic Sedan",
+      "vin": "2HGFE1F98RH001639",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/45fd7f5e1b85.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic Sedan",
+      "condition": "used",
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda HR-V",
+      "vin": "3CZRZ2H70SM104122",
+      "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/86d23825ef81.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "used",
+      "price": 37495.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota RAV4",
       "vin": "2T36CRAV4TW000549",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/8fbcf5c20806.html",
@@ -356,7 +411,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 58995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
@@ -367,7 +422,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 34995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     }
   ]

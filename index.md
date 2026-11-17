@@ -1,6 +1,6 @@
 # Straightline Honda
 
- dealership in Terrace. AI-readable inventory mirror, about 43 vehicles.
+ dealership in Terrace. AI-readable inventory mirror, about 48 vehicles.
 
 - Official website: https://www.straightlinehonda.ca/en
 - Used vehicles: https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/
