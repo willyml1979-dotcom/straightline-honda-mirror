@@ -1,6 +1,6 @@
 {
   "dealership": "Straightline Honda",
-  "generated_at": "2026-11-17T12:53:12",
+  "generated_at": "2026-11-18T01:28:12",
   "vehicle_count": 48,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -50,7 +50,7 @@
       "vin": "2HKRS4H58TH114599",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/new/d39cbf6ad0ff.html",
       "condition": "new",
-      "price": 0.0,
+      "price": 48165.0,
       "price_currency": "CAD"
     },
     {
