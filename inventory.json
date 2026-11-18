@@ -1,6 +1,6 @@
 {
   "dealership": "Straightline Honda",
-  "generated_at": "2026-11-18T01:28:12",
+  "generated_at": "2026-11-18T02:53:53",
   "vehicle_count": 48,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -305,12 +305,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen TIGUAN",
+      "name": "2018 Volkswagen Tiguan",
       "vin": "3VV2B7AX7JM076127",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/4c2144bc8a59.html",
       "year": 2018,
       "make": "Volkswagen",
-      "model": "TIGUAN",
+      "model": "Tiguan",
       "condition": "used",
       "price": 19995.0,
       "price_currency": "CAD"
@@ -334,7 +334,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 31995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -360,12 +360,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda CIVIC SEDAN",
+      "name": "2022 Honda Civic Sedan",
       "vin": "2HGFE2F34NH116170",
       "url": "https://willyml1979-dotcom.github.io/straightline-honda-mirror/used/dc8cc92c6280.html",
       "year": 2022,
       "make": "Honda",
-      "model": "CIVIC SEDAN",
+      "model": "Civic Sedan",
       "condition": "used",
       "price": 24995.0,
       "price_currency": "CAD"
